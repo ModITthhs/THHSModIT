@@ -4,10 +4,13 @@ We in ModIT focus on Modern Innovative Technology! We hope to guide others in co
 
 ### Code
 
-We like to focus on Java and Python in ModIT, and do fun and creative projects with 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We like to focus on Java and Python in ModIT, and do fun and creative projects with those languages. We help guide you in learning the languages, and once you have an understanding, we help you put those skills to use by writing useful programs for everyday.
 
-### Jekyll Themes
+### CAD
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ModITthhs/THHSModIT/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+CAD stands for Computer Aided Design. We use OnShape to design objects in 3D models and have fun doing it. Its like drawing in 3D!
+
+### Data Analysis
+
+We use a program called R to help organize and analyze data! Its a useful program to know how to navigate for future jobs, especially in science research or for corporate data analysis. We can teach you to create graphs and interpret results using the R program.
 
