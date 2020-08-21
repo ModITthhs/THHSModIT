@@ -14,4 +14,4 @@ CAD stands for Computer Aided Design. We use OnShape to design objects in 3D mod
 
 We use a program called R to help organize and analyze data! Its a useful program to know how to navigate for future jobs, especially in science research or for corporate data analysis. We can teach you to create graphs and interpret results using the R program.
 
-[Contact Us]()
+[Contact Us](https://github.com/ModITthhs/THHSModIt.github.io/contactUs/)
