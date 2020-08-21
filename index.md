@@ -2,6 +2,7 @@
 title: THHS ModIT
 layout: template
 filename: index.md
+theme = jekyll-theme-cayman
 --- 
 
 ## THHS ModIT
